@@ -1,2 +1,0 @@
-# Pambrica
- Meu primerio repositorio
