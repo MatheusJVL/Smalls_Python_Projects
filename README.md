@@ -1,2 +1,2 @@
-# Pambrica
- Meu primerio repositorio
+# Python_Projects
+ Meus projetos em python
