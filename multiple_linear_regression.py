@@ -64,6 +64,8 @@ def train(x, y, w, b, alpha, epochs):
     return w, b, errors
 
 # Treinamento do modelo
+
+
 w, b, errors = train(x, y, w, b, alpha, epochs)
 
 # Fazendo previsões
