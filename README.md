@@ -1,2 +1,3 @@
-# Python_Projects
- Meus projetos em python
+# Small_Python_Projects
+
+Arquivos que fiz em Python
